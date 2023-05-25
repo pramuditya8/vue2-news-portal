@@ -20,7 +20,7 @@ export default {
 
 <style lang="scss" scoped>
 .Layout {
-  padding: 48px 400px;
+  padding: 96px 400px;
 }
 
 @media screen and (max-width: 1280px) {

@@ -58,6 +58,11 @@ $textMainColorHover: rgb(201, 201, 201);
 
 .nav-menu {
   background-color: $mainColor;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
 }
 .nav-content-mobile {
   display: none;
